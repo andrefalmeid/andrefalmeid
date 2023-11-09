@@ -13,9 +13,7 @@ Tanto durante o tempo da faculdade como alguns cursos e eventos de programação
 
 :books: Tenho buscado aprender sobre UX/UI e tenho como objetivo futuramente aprender sobre desenvolvimento mobile.
 
-:mailbox: Você pode entrar em contato comigo pelo <a href="https://www.linkedin.com/in/andref-almeida/">Linkedin</a> ou pelo 
-<a href="https://www.instagram.com/andref_almeida/"> Instagram</a> 
-(prometo responder bem rapido :grinning:) e também acompanhar os projetos que já fiz e estão salvos aqui.
+:mailbox: Você pode entrar em contato comigo pelo <a href="https://www.linkedin.com/in/andref-almeida/">Linkedin</a> e também acompanhar os projetos que já fiz e estão salvos aqui.
 
 <br>
 </br>
